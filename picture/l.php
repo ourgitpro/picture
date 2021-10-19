@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /><meta name="referrer" content="origin" /></head><body><script type="text/javascript" nonce="r1VmnLjH">document.location.replace("https:\/\/goo.gl\/ki323F?fbclid=IwAR3vOPTYAwWr9yetYuVan5-hXW3zBZlfJ4_d1ZLMQ7HZVGmrzZzXiftlb2A");</script></body></html>
